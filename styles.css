@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+
+
+table{
+	height:100%;
+	width:100%;
+	border-collapse:collapse;
+}
+td{
+	padding:2px;
+	border:2px solid black;
+	
+	
+}
+tbody tr{
+	text-align:right;
+	
+}
+#name{
+	text-align:left;
+}
